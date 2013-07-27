@@ -1,0 +1,6 @@
+E:\Projects\Git\SOLID\Solid\bin\Debug\Solid.exe.config
+E:\Projects\Git\SOLID\Solid\bin\Debug\Solid.exe
+E:\Projects\Git\SOLID\Solid\bin\Debug\Solid.pdb
+E:\Projects\Git\SOLID\Solid\obj\Debug\SRP.csprojResolveAssemblyReference.cache
+E:\Projects\Git\SOLID\Solid\obj\Debug\Solid.exe
+E:\Projects\Git\SOLID\Solid\obj\Debug\Solid.pdb
