@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP", "SRP.csproj", "{33C559D1-12AF-4AA8-99B1-11EE44B637D2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP", "..\OCP\OCP.csproj", "{33D095F5-C75B-4FB6-A812-24AF16F33022}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP", "OCP.csproj", "{33C559D1-12AF-4AA8-99B1-11EE44B637D2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP_Correct", "LSP_Incorrect\LSP_Correct.csproj", "{16DDC436-BDE7-4BE8-9913-82FCFEA47563}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP_Wrong", "LSP_Wrong\LSP_Wrong.csproj", "{6DCE66DE-73A3-4066-A6B2-79930A793F04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP", "..\SRP\SRP.csproj", "{FA2F547F-1EB4-43D7-AC85-D5C69C1CDA8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,6 @@ Global
 		{33C559D1-12AF-4AA8-99B1-11EE44B637D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33C559D1-12AF-4AA8-99B1-11EE44B637D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33C559D1-12AF-4AA8-99B1-11EE44B637D2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{33D095F5-C75B-4FB6-A812-24AF16F33022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{33D095F5-C75B-4FB6-A812-24AF16F33022}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{33D095F5-C75B-4FB6-A812-24AF16F33022}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{33D095F5-C75B-4FB6-A812-24AF16F33022}.Release|Any CPU.Build.0 = Release|Any CPU
 		{16DDC436-BDE7-4BE8-9913-82FCFEA47563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{16DDC436-BDE7-4BE8-9913-82FCFEA47563}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16DDC436-BDE7-4BE8-9913-82FCFEA47563}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -31,6 +27,10 @@ Global
 		{6DCE66DE-73A3-4066-A6B2-79930A793F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DCE66DE-73A3-4066-A6B2-79930A793F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DCE66DE-73A3-4066-A6B2-79930A793F04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2F547F-1EB4-43D7-AC85-D5C69C1CDA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2F547F-1EB4-43D7-AC85-D5C69C1CDA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2F547F-1EB4-43D7-AC85-D5C69C1CDA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2F547F-1EB4-43D7-AC85-D5C69C1CDA8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

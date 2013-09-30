@@ -1,0 +1,6 @@
+C:\Users\Chander\Documents\GitHub\SOLID\Solid\LSP_Wrong\bin\Debug\LSP_Wrong.exe.config
+C:\Users\Chander\Documents\GitHub\SOLID\Solid\LSP_Wrong\bin\Debug\LSP_Wrong.exe
+C:\Users\Chander\Documents\GitHub\SOLID\Solid\LSP_Wrong\bin\Debug\LSP_Wrong.pdb
+C:\Users\Chander\Documents\GitHub\SOLID\Solid\LSP_Wrong\obj\Debug\LSP_Wrong.csprojResolveAssemblyReference.cache
+C:\Users\Chander\Documents\GitHub\SOLID\Solid\LSP_Wrong\obj\Debug\LSP_Wrong.exe
+C:\Users\Chander\Documents\GitHub\SOLID\Solid\LSP_Wrong\obj\Debug\LSP_Wrong.pdb

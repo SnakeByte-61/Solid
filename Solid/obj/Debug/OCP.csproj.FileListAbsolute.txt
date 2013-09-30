@@ -1,0 +1,6 @@
+C:\Users\Chander\Documents\GitHub\SOLID\Solid\bin\Debug\Solid.exe.config
+C:\Users\Chander\Documents\GitHub\SOLID\Solid\bin\Debug\Solid.exe
+C:\Users\Chander\Documents\GitHub\SOLID\Solid\bin\Debug\Solid.pdb
+C:\Users\Chander\Documents\GitHub\SOLID\Solid\obj\Debug\OCP.csprojResolveAssemblyReference.cache
+C:\Users\Chander\Documents\GitHub\SOLID\Solid\obj\Debug\Solid.exe
+C:\Users\Chander\Documents\GitHub\SOLID\Solid\obj\Debug\Solid.pdb
