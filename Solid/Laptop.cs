@@ -10,6 +10,7 @@ namespace Solid
     {
         public Laptop()
         {
+		//added comment
             this.Price = 700;
         }
     }
